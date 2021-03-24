@@ -25,7 +25,7 @@ the password to each of the skywallets. This way, the passwords are not written 
 Should be able to run on Linux Servers
 
 Folder Structure:
-```
+```bash
 |-CloudCoin Wallet
 |-- skywallet_manager.exe
 |-- skyallet_manager_config.txt
